@@ -31,7 +31,9 @@
     <img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=Notion&logoColor=white"/>
   </div>
   <br>
-  
+
+  <!--
   ### 📊 Github Stats 📊
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisu0712&hide=contribs,prs&theme=tokyonight)
+  -->
 </div>
